@@ -1,1 +1,2 @@
 - 2024-03-09 14:19:46: docs(reporting): add trend visualization (1/3)
+- 2024-03-09 09:43:05: fix(benchmarks): add MMLU evaluation (2/3)
