@@ -4,3 +4,4 @@
 - 2024-03-16 17:42:19: chore(statistics): add effect size (1/2)
 - 2024-03-16 12:49:08: feat(ci): add nightly eval runs (2/2)
 - 2024-03-17 11:24:34: docs(benchmarks): add custom task suite (1/2)
+- 2024-03-17 22:47:02: chore(ci): add PR evaluation gate (2/2)
