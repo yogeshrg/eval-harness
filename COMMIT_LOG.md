@@ -3,3 +3,4 @@
 - 2024-03-09 12:48:32: test(reporting): add trend visualization (3/3)
 - 2024-03-16 17:42:19: chore(statistics): add effect size (1/2)
 - 2024-03-16 12:49:08: feat(ci): add nightly eval runs (2/2)
+- 2024-03-17 11:24:34: docs(benchmarks): add custom task suite (1/2)
