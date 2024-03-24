@@ -11,3 +11,4 @@
 - 2024-03-24 10:33:32: fix(statistics): add bootstrap confidence intervals (2/5)
 - 2024-03-24 12:11:38: fix(judges): implement LLM-as-judge (3/5)
 - 2024-03-24 16:43:59: docs(reporting): export to JSON/CSV (4/5)
+- 2024-03-24 19:19:50: docs(judges): implement LLM-as-judge (5/5)
