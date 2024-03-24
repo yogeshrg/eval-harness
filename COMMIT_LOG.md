@@ -9,3 +9,4 @@
 - 2024-03-23 18:29:53: refactor(benchmarks): add MMLU evaluation (2/2)
 - 2024-03-24 17:05:25: fix(benchmarks): add HumanEval pass@k (1/5)
 - 2024-03-24 10:33:32: fix(statistics): add bootstrap confidence intervals (2/5)
+- 2024-03-24 12:11:38: fix(judges): implement LLM-as-judge (3/5)
