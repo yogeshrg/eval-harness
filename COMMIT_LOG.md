@@ -15,3 +15,4 @@
 - 2024-03-31 22:18:04: Revert "implement statistical significance" (1/2)
 - 2024-03-31 21:47:57: docs(reporting): export to JSON/CSV (2/2)
 - 2024-07-27 18:35:12: Revert "add bootstrap confidence intervals" (1/4)
+- 2024-07-27 17:17:52: docs(benchmarks): add custom task suite (2/4)
