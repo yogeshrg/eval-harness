@@ -17,3 +17,4 @@
 - 2024-07-27 18:35:12: Revert "add bootstrap confidence intervals" (1/4)
 - 2024-07-27 17:17:52: docs(benchmarks): add custom task suite (2/4)
 - 2024-07-27 14:35:23: docs(benchmarks): add HumanEval pass@k (3/4)
+- 2024-07-27 20:21:51: Revert "generate HTML reports" (4/4)
