@@ -20,3 +20,4 @@
 - 2024-07-27 20:21:51: Revert "generate HTML reports" (4/4)
 - 2024-07-28 18:20:10: test(ci): add nightly eval runs (1/3)
 - 2024-07-28 18:19:30: test(ci): fail on regression (2/3)
+- 2024-07-28 23:46:55: docs(benchmarks): add custom task suite (3/3)
