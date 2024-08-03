@@ -23,3 +23,4 @@
 - 2024-07-28 23:46:55: docs(benchmarks): add custom task suite (3/3)
 - 2024-08-03 18:30:10: test(ci): add nightly eval runs (1/4)
 - 2024-08-03 10:12:01: feat(judges): add rubric-based scoring (2/4)
+- 2024-08-03 17:49:39: docs(judges): add rubric-based scoring (3/4)
