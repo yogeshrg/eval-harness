@@ -21,3 +21,4 @@
 - 2024-07-28 18:20:10: test(ci): add nightly eval runs (1/3)
 - 2024-07-28 18:19:30: test(ci): fail on regression (2/3)
 - 2024-07-28 23:46:55: docs(benchmarks): add custom task suite (3/3)
+- 2024-08-03 18:30:10: test(ci): add nightly eval runs (1/4)
