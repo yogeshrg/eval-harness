@@ -25,3 +25,4 @@
 - 2024-08-03 10:12:01: feat(judges): add rubric-based scoring (2/4)
 - 2024-08-03 17:49:39: docs(judges): add rubric-based scoring (3/4)
 - 2024-08-03 19:30:33: fix(ci): fail on regression (4/4)
+- 2024-08-04 21:55:46: refactor(ci): fail on regression (1/5)
