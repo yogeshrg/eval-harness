@@ -27,3 +27,4 @@
 - 2024-08-03 19:30:33: fix(ci): fail on regression (4/4)
 - 2024-08-04 21:55:46: refactor(ci): fail on regression (1/5)
 - 2024-08-04 12:19:49: fix(judges): add pairwise comparison (2/5)
+- 2024-08-04 23:50:46: docs(statistics): implement statistical significance (3/5)
