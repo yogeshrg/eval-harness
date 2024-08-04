@@ -28,3 +28,4 @@
 - 2024-08-04 21:55:46: refactor(ci): fail on regression (1/5)
 - 2024-08-04 12:19:49: fix(judges): add pairwise comparison (2/5)
 - 2024-08-04 23:50:46: docs(statistics): implement statistical significance (3/5)
+- 2024-08-04 15:52:22: chore(ci): fail on regression (4/5)
