@@ -32,3 +32,4 @@
 - 2024-08-04 16:41:16: chore(statistics): add bootstrap confidence intervals (5/5)
 - 2024-08-10 11:06:39: refactor(ci): fail on regression (1/3)
 - 2024-08-10 12:03:06: chore(benchmarks): add custom task suite (2/3)
+- 2024-08-10 15:41:59: Merge branch 'refactor/eval-harness-21' (3/3)
