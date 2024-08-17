@@ -36,3 +36,4 @@
 - 2024-08-17 21:05:41: chore(statistics): update dependencies (1/4)
 - 2024-08-17 11:59:58: fix(benchmarks): add HumanEval pass@k (2/4)
 - 2024-08-17 09:19:36: chore(judges): add pairwise comparison (3/4)
+- 2024-08-17 16:56:08: docs(statistics): add effect size (4/4)
