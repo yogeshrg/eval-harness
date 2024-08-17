@@ -35,3 +35,4 @@
 - 2024-08-10 15:41:59: Merge branch 'refactor/eval-harness-21' (3/3)
 - 2024-08-17 21:05:41: chore(statistics): update dependencies (1/4)
 - 2024-08-17 11:59:58: fix(benchmarks): add HumanEval pass@k (2/4)
+- 2024-08-17 09:19:36: chore(judges): add pairwise comparison (3/4)
