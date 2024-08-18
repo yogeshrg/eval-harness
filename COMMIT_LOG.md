@@ -38,3 +38,4 @@
 - 2024-08-17 09:19:36: chore(judges): add pairwise comparison (3/4)
 - 2024-08-17 16:56:08: docs(statistics): add effect size (4/4)
 - 2024-08-18 19:16:45: refactor(benchmarks): add MMLU evaluation (1/3)
+- 2024-08-18 11:39:54: test(statistics): add effect size (2/3)
