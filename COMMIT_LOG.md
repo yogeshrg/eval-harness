@@ -41,3 +41,4 @@
 - 2024-08-18 11:39:54: test(statistics): add effect size (2/3)
 - 2024-08-18 10:11:08: refactor(ci): add nightly eval runs (3/3)
 - 2025-01-11 22:04:50: chore(reporting): export to JSON/CSV (1/2)
+- 2025-01-11 22:18:21: fix(reporting): add trend visualization (2/2)
