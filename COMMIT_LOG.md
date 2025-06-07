@@ -43,3 +43,4 @@
 - 2025-01-11 22:04:50: chore(reporting): export to JSON/CSV (1/2)
 - 2025-01-11 22:18:21: fix(reporting): add trend visualization (2/2)
 - 2025-06-07 23:07:43: docs(statistics): add effect size (1/4)
+- 2025-06-07 22:30:37: test(reporting): add trend visualization (2/4)
