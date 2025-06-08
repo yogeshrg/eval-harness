@@ -46,3 +46,4 @@
 - 2025-06-07 22:30:37: test(reporting): add trend visualization (2/4)
 - 2025-06-07 10:18:01: refactor(judges): add rubric-based scoring (3/4)
 - 2025-06-07 19:13:17: fix(ci): add nightly eval runs (4/4)
+- 2025-06-08 18:51:00: docs(benchmarks): add MMLU evaluation (1/2)
