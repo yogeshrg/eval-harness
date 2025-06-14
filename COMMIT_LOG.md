@@ -48,3 +48,4 @@
 - 2025-06-07 19:13:17: fix(ci): add nightly eval runs (4/4)
 - 2025-06-08 18:51:00: docs(benchmarks): add MMLU evaluation (1/2)
 - 2025-06-08 16:16:13: docs(statistics): implement statistical significance (2/2)
+- 2025-06-14 19:53:53: feat(ci): add nightly eval runs (1/5)
