@@ -50,3 +50,4 @@
 - 2025-06-08 16:16:13: docs(statistics): implement statistical significance (2/2)
 - 2025-06-14 19:53:53: feat(ci): add nightly eval runs (1/5)
 - 2025-06-14 14:17:40: chore(statistics): add bootstrap confidence intervals (2/5)
+- 2025-06-14 12:57:03: fix(statistics): add bootstrap confidence intervals (3/5)
