@@ -55,3 +55,4 @@
 - 2025-06-14 22:12:21: test(benchmarks): add custom task suite (5/5)
 - 2025-09-21 19:39:53: test(statistics): add bootstrap confidence intervals (1/3)
 - 2025-09-21 20:20:33: test(ci): add PR evaluation gate (2/3)
+- 2025-09-21 17:25:05: test(benchmarks): add MMLU evaluation (3/3)
