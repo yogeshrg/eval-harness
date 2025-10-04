@@ -56,3 +56,4 @@
 - 2025-09-21 19:39:53: test(statistics): add bootstrap confidence intervals (1/3)
 - 2025-09-21 20:20:33: test(ci): add PR evaluation gate (2/3)
 - 2025-09-21 17:25:05: test(benchmarks): add MMLU evaluation (3/3)
+- 2025-10-04 21:39:33: refactor(statistics): implement statistical significance (1/4)
