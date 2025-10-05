@@ -61,3 +61,4 @@
 - 2025-10-04 17:46:18: docs(statistics): add bootstrap confidence intervals (3/4)
 - 2025-10-04 13:57:41: test(ci): add PR evaluation gate (4/4)
 - 2025-10-05 19:04:13: fix(benchmarks): add custom task suite (1/2)
+- 2025-10-05 23:47:49: fix(benchmarks): add custom task suite (2/2)
