@@ -64,3 +64,4 @@
 - 2025-10-05 23:47:49: fix(benchmarks): add custom task suite (2/2)
 - 2025-10-12 09:11:50: Revert "generate HTML reports" (1/2)
 - 2025-10-12 16:40:25: fix(ci): add PR evaluation gate (2/2)
+- 2025-10-19 18:04:48: test(benchmarks): add MMLU evaluation (1/5)
