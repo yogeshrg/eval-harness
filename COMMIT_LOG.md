@@ -66,3 +66,4 @@
 - 2025-10-12 16:40:25: fix(ci): add PR evaluation gate (2/2)
 - 2025-10-19 18:04:48: test(benchmarks): add MMLU evaluation (1/5)
 - 2025-10-19 19:19:38: test(statistics): add bootstrap confidence intervals (2/5)
+- 2025-10-19 17:14:08: Revert "generate HTML reports" (3/5)
