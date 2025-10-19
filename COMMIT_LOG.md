@@ -68,3 +68,4 @@
 - 2025-10-19 19:19:38: test(statistics): add bootstrap confidence intervals (2/5)
 - 2025-10-19 17:14:08: Revert "generate HTML reports" (3/5)
 - 2025-10-19 23:58:50: chore(statistics): add bootstrap confidence intervals (4/5)
+- 2025-10-19 09:36:38: test(ci): add nightly eval runs (5/5)
